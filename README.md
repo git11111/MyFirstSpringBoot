@@ -1,7 +1,5 @@
 # MyFirstSpringBoot
 
-FirstSpringBoot
-
 //maven commands
 
 mvn spring-boot:run
